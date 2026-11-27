@@ -1,3 +1,5 @@
+jupyterlite-core
+jupyterlite-pyodide-kernel
 numpy==1.26.4
 matplotlib==3.8.3
 ipympl==0.9.7
