@@ -1,4 +1,5 @@
 jupyterlite-core
 jupyterlite-pyodide-kernel
 jupyter-server
-
+ipywidgets
+ipympl
